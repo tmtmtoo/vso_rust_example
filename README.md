@@ -1,1 +1,1 @@
-# VSO Rust Example
+# Visual Studio Online Rust Example
