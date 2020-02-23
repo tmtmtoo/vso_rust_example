@@ -1,0 +1,7 @@
+README.md
+test-project
+definition-build.json
+.vscode
+.npmignore
+Cargo.lock
+Cargo.toml
